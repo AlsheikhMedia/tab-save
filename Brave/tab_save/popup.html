@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      width: 250px;
+      padding: 15px;
+      font-family: Arial, sans-serif;
+    }
+    button {
+      width: 100%;
+      padding: 12px;
+      min-height: 48px;
+      background-color: #4285f4;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    button:hover {
+      background-color: #3367d6;
+    }
+    #message {
+      margin-top: 10px;
+      color: green;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <h3>Tab Saver</h3>
+  <p>Click the button below to save all open tabs to a text file.</p>
+  <button id="saveButton">Save Tabs</button>
+  <div id="message"></div>
+  <script src="popup.js"></script>
+</body>
+</html>
