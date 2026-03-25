@@ -5,7 +5,7 @@
   "description": "Saves titles and URLs of all open tabs to a text file",
   "browser_specific_settings": {
     "gecko": {
-      "id": "tab-saver@hassanalsheikh"
+      "id": "tab-saver@alsheikhmedia.com"
     }
   },
   "permissions": [
