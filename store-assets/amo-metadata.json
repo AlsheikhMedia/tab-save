@@ -1,0 +1,9 @@
+{
+  "summary": {
+    "en-US": "Save all open tab titles and URLs to a text file with one click. Fully offline, zero data collection."
+  },
+  "categories": ["tabs"],
+  "version": {
+    "license": "MIT"
+  }
+}
